@@ -1,5 +1,9 @@
 # @atomico/lazy
 
+[![CircleCI](https://circleci.com/gh/atomicojs/lazy.svg?style=svg)](https://circleci.com/gh/atomicojs/lazy)
+[![npm](https://badgen.net/npm/v/@atomico/lazy)](http://npmjs.com/@atomico/lazy)
+[![gzip](https://badgen.net/bundlephobia/minzip/@atomico/lazy)](https://bundlephobia.com/result?p=@atomico/lazy)
+
 This function allows the dynamic importation of components.
 
 ```jsx
